@@ -8,5 +8,9 @@
     <artifactId>onecard-open-edu</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>onecard-open-base</module>
+    </modules>
+
 
 </project>
